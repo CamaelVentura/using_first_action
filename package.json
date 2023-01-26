@@ -1,0 +1,20 @@
+{
+  "name": "using_first_action",
+  "version": "1.0.0",
+  "description": "\"# using_first_action\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamaelVentura/using_first_action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamaelVentura/using_first_action/issues"
+  },
+  "homepage": "https://github.com/CamaelVentura/using_first_action#readme"
+}
