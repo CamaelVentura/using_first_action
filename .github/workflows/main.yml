@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: CamaelVentura/create_first_action@v1.1.2
+        uses: CamaelVentura/create_first_action@v1.1.3
         with:
           who-to-greet: 'Mona the Octocat'
       # Use the output from the `hello` step
