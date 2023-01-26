@@ -12,7 +12,7 @@ jobs:
         id: hello
         uses: CamaelVentura/create_first_action@v1.1.4
         with:
-          who-to-greet: 'Mona the Octocat'
+          who-to-greet: 'Camael'
       # Use the output from the `hello` step
       - name: Get the output time
         run: echo "The time was ${{ steps.hello.outputs.time }}"
